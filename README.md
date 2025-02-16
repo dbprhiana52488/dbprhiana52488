@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm dbprhiana52488
 
-<!--
-**dbprhiana52488/dbprhiana52488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🎣 🛶 A beginner in startup culture 🏊 🎣 🛶
 
-Here are some ideas to get you started:
+## About Me
+🥊 🎤 Interested in robotics 🥊 🎤
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🛹 🥊 Innovating in the field of augmented reality 🛹 🥊
+
+### Fun Facts
+🏓 🚴 🎣 A beginner in product management 🏓 🚴 🎣
+
+---
+🚴 🚵 🚀 🛼 🎮 Thanks for visiting my profile! 🎰 🛼 🎬 🚣 🛶
